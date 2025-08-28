@@ -12,11 +12,11 @@ division_rounded = x//y
 
 
 print(f"{x} + {y} = {addition}")
-print(f"{x} + {y} = {subtraction}")
-print(f"{x} + {y} = {multiplication}")
-print(f"{x} + {y} = {division}")
-print(f"{x} + {y} = {exponent}")
-print(f"{x} + {y} = {division_rounded}")
+print(f"{x} - {y} = {subtraction}")
+print(f"{x} * {y} = {multiplication}")
+print(f"{x} / {y} = {division}")
+print(f"{x} ^ {y} = {exponent}")
+print(f"{x} // {y} = {division_rounded}")
 
 
 # 2. Bygg vidare på välkomstprogrammet med att be om användarens ålder - skriv ut både namn och ålder sen
