@@ -43,7 +43,7 @@ height = float(input("Skriv din längd i m: "))
 
 bmi = weight/(height**2)
 
-print(bmi)
+print(f"Din BMI är {bmi}")
 
 
 # 5. ”Livet i veckor”
