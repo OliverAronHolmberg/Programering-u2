@@ -32,7 +32,7 @@ print(f"Hej {name}!, du är {age} år gammal")
 number_1 = float(input("Skriv tal 1 (ex. 20.1): "))
 number_2 = float(input("Skriv tal 2 (ex. 20.1): "))
 
-answer = number_1*number_2
+answer = number_1*number_2 
 
 print(f"{number_1} * {number_2} = {answer}")
 
